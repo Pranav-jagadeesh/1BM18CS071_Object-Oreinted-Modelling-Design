@@ -1,0 +1,8 @@
+College Information Management System :
+This system can be used by the colleges to manage their daily activities which includes management of Emplyoees,students ,library records,results,faculty ,courses,events related to the college
+1)There will be 3 people/users : Studens,College  Administrator,Faculty.
+2)College  Administrator can login using valid credentials and perform various tasks such as adding a teacher,a student or course and also can view them
+3)The college admin can add students, courses , events,course calender , faculties and event to the database
+4)Student can check his/her details, results , courses ,  and faculty assigned to course Faculty can save the attendance of the students,check the no of courses assigned to him and check the events related to college.
+6)Library users can check the books present in the college library , eresources present ,publications related to the college
+7) All four people can also see events related to the college.
