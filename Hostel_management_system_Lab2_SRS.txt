@@ -1,0 +1,16 @@
+Hostel Management System
+This system is designed in favor of the hostel management which helps them to save the records of the students about their rooms and other things. 
+It helps them from the manual work from which it is very difficult to find the record of the students and the mess bills of the students, and the information of about the those ones who had left the hostel three years before. 
+We design this system on the request of the hostel management, through this they cannot require so efficient person to handle and calculate the things. 
+This system automatically calculates all the bills and issued the notifications for those students who are against some rules.
+Existing System 
+The existing system is a manually maintained system. 
+All the Hostel Records are to be maintained for the details of each student, Fee details, Room Allocation, Attendance etc. All these details are entered and retrieved manually(On Paper Work). 
+Time consuming. 
+Updating process 
+Inaccuracy of data.
+The New system is computerized version of the existing system. 
+ Provides easy and quick access over the data. 
+ Authorization schemes. 
+ Admin is easy to change or update the students details. New System
+
